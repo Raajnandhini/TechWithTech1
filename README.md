@@ -1,23 +1,36 @@
-# TechWithTech1 🚀
+# TechWithTech1 
 
-## Description
-This is a full-stack project that includes both frontend and backend.
+##  Project Overview
+**TechWithTech1** is a full-stack web application developed to demonstrate
+seamless integration between frontend and backend systems. The project follows
+a modular architecture and highlights practical usage of modern web development
+technologies.
 
-## Tech Stack
-- Frontend: HTML, CSS, JavaScript
-- Backend: Python
-- Database: SQLite
+##  Tech Stack
+- **Frontend:** HTML, CSS, JavaScript  
+- **Backend:** Python  
+- **Database:** PostgreSQL  
 
-## Folder Structure
-- app/ → Backend logic
-- frontend/ → Frontend UI
+## Deployment
+The application has been successfully deployed on **AWS**, making it accessible
+in a real-world production environment. This deployment demonstrates hands-on
+experience with cloud infrastructure and hosting full-stack applications.
 
-## How to Run
-1. Clone the repository
-2. Install dependencies
-3. Run backend
-4. Start frontend
+## How to Run the Project (Local Setup)
+Follow the steps below to set up and run the project locally:
 
-## Future Enhancements
-- User authentication
-- UI improvements
+1. Clone the repository to your local machine  
+2. Install all required dependencies for frontend and backend  
+3. Configure the PostgreSQL database  
+4. Start the backend server  
+5. Launch the frontend application  
+
+##  Key Features
+- End-to-end frontend and backend integration  
+- PostgreSQL database connectivity  
+- Cloud deployment on AWS  
+- Modular and scalable project architecture  
+
+
+
+
